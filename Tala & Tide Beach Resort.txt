@@ -1,0 +1,4 @@
+Tala & Tide Beach Resort
+
+Live website: https://charlesmanalo.github.io/tala-and-tide-resort/
+Source repository: https://github.com/CharlesManalo/tala-and-tide-resort
