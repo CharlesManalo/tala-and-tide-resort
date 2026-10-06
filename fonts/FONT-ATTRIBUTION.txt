@@ -1,0 +1,15 @@
+Self-hosted font assets from Google Fonts
+CSS source: https://fonts.googleapis.com/css2?family=Nunito:wght@400..800&family=Poppins:wght@400;500;600;700&display=swap
+Retrieved: 2026-10-06
+
+Nunito
+Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)
+License: SIL Open Font License 1.1
+Official license source: https://raw.githubusercontent.com/google/fonts/main/ofl/nunito/OFL.txt
+License file: nunito-OFL.txt
+
+Poppins
+Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)
+License: SIL Open Font License 1.1
+Official license source: https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/OFL.txt
+License file: poppins-OFL.txt

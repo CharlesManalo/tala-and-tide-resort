@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://CharlesManalo.github.io/tala-and-tide-resort/sitemap.xml

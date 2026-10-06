@@ -1,0 +1,91 @@
+{
+  "provider": "Google Fonts",
+  "subset": "latin",
+  "source_url": "https://fonts.googleapis.com/css2?family=Nunito:wght@400..800&family=Poppins:wght@400;500;600;700&display=swap",
+  "requested_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+  "verified_on": "2026-10-06",
+  "original_css": "original-google-fonts.css",
+  "fonts": [
+    {
+      "family": "Nunito",
+      "font_weight": "400 800",
+      "font_style": "normal",
+      "font_display": "swap",
+      "filename": "nunito-latin.woff2",
+      "format": "woff2",
+      "subset": "latin",
+      "source_url": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
+      "css_source_url": "https://fonts.googleapis.com/css2?family=Nunito:wght@400..800&family=Poppins:wght@400;500;600;700&display=swap",
+      "bytes": 39128,
+      "sha256": "ba344451eab25b217a165363b1982048a5e5830a0daf36577973955a04cac793"
+    },
+    {
+      "family": "Poppins",
+      "font_weight": "400",
+      "font_style": "normal",
+      "font_display": "swap",
+      "filename": "poppins-400-latin.woff2",
+      "format": "woff2",
+      "subset": "latin",
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfecg.woff2",
+      "css_source_url": "https://fonts.googleapis.com/css2?family=Nunito:wght@400..800&family=Poppins:wght@400;500;600;700&display=swap",
+      "bytes": 7884,
+      "sha256": "7d93459d86585bfcdbb7e0376056226adb25821ee54b96236fe2123e9560929f"
+    },
+    {
+      "family": "Poppins",
+      "font_weight": "500",
+      "font_style": "normal",
+      "font_display": "swap",
+      "filename": "poppins-500-latin.woff2",
+      "format": "woff2",
+      "subset": "latin",
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
+      "css_source_url": "https://fonts.googleapis.com/css2?family=Nunito:wght@400..800&family=Poppins:wght@400;500;600;700&display=swap",
+      "bytes": 7748,
+      "sha256": "cd36de204aca2d5fa263a731f7c20009b5e3d754ba1f1e03c33e93a48f3e7446"
+    },
+    {
+      "family": "Poppins",
+      "font_weight": "600",
+      "font_style": "normal",
+      "font_display": "swap",
+      "filename": "poppins-600-latin.woff2",
+      "format": "woff2",
+      "subset": "latin",
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
+      "css_source_url": "https://fonts.googleapis.com/css2?family=Nunito:wght@400..800&family=Poppins:wght@400;500;600;700&display=swap",
+      "bytes": 8000,
+      "sha256": "f4e80d9dfd374d02989b87a27b5ed4cb78fbb177c27f1478e9a8b0afb7513149"
+    },
+    {
+      "family": "Poppins",
+      "font_weight": "700",
+      "font_style": "normal",
+      "font_display": "swap",
+      "filename": "poppins-700-latin.woff2",
+      "format": "woff2",
+      "subset": "latin",
+      "source_url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
+      "css_source_url": "https://fonts.googleapis.com/css2?family=Nunito:wght@400..800&family=Poppins:wght@400;500;600;700&display=swap",
+      "bytes": 7816,
+      "sha256": "9338e65fc077355c7a87ae0d64cc101e23b9bf8ad78ae65f0f319c857311b526"
+    }
+  ],
+  "licenses": [
+    {
+      "family": "Nunito",
+      "filename": "nunito-OFL.txt",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/nunito/OFL.txt",
+      "license": "SIL Open Font License 1.1",
+      "copyright": "Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)"
+    },
+    {
+      "family": "Poppins",
+      "filename": "poppins-OFL.txt",
+      "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/OFL.txt",
+      "license": "SIL Open Font License 1.1",
+      "copyright": "Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)"
+    }
+  ]
+}
