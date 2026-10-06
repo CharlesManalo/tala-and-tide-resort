@@ -145,3 +145,30 @@
 .compact-navigation.highlands .site-nav{background:var(--primary);color:var(--paper)}
 
 .card.recommended{outline:3px solid var(--accent);outline-offset:5px}
+
+/* Brand-specific footer redesign */
+.site-footer.footer-redesign{padding:0;color:inherit}
+.footer-redesign a{text-decoration:none;transition:color .2s,background .2s}
+.footer-redesign a:hover{text-decoration:underline;text-underline-offset:5px}
+.footer-redesign a:focus-visible{outline:2px solid currentColor;outline-offset:5px}
+.footer-redesign .footer-shell{width:min(1180px,calc(100% - 4rem));margin:auto}
+.footer-redesign .footer-label{font-size:.72rem;text-transform:uppercase;letter-spacing:.18em;font-weight:700;margin:0 0 1rem}
+.footer-redesign .footer-nav{display:flex;flex-wrap:wrap;gap:.6rem 1.5rem}
+.footer-redesign .footer-nav a{display:inline-flex;align-items:center;min-height:44px}
+.footer-redesign .footer-fine{font-size:.78rem;opacity:.8;line-height:1.6}
+.footer-redesign .footer-end{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;padding:1.4rem 0}
+.footer-redesign .footer-end p{margin:0}
+@media(max-width:767px){.footer-redesign .footer-shell{width:calc(100% - 2rem)}.footer-redesign .footer-end{flex-direction:column;gap:.4rem}}
+
+.site-footer.tide-footer{background:#0b525a;color:#fff;border-top:8px solid #ef8c73}
+.tide-invitation{padding:4.5rem 0 3.5rem;display:flex;align-items:center;justify-content:space-between;gap:3rem}
+.tide-invitation h2{font-size:clamp(2.7rem,5vw,5rem);line-height:1.08;letter-spacing:-.055em;margin:0 0 1.3rem;color:#fff}
+.tide-invitation p:not(.footer-label){max-width:28rem;color:#d3eeea;margin:0}
+.tide-cta{background:#f5dfb9;color:#134b4f;padding:1.2rem 1.8rem;border-radius:999px;font-weight:800;display:flex;gap:2rem;align-items:center;white-space:nowrap}
+.tide-cta span{font-size:1.8rem;line-height:1}
+.tide-dock{border-block:1px solid #ffffff35;padding:2rem 0;display:flex;gap:2rem;align-items:center;justify-content:space-between}
+.tide-wordmark{font-size:2rem;font-weight:800;line-height:1.2;white-space:nowrap}.tide-wordmark span{color:#f1b19c}.tide-wordmark small{display:block;font-size:.6rem;letter-spacing:.28em;margin-top:.5rem}
+.tide-dock .footer-nav{font-size:.85rem}
+@media(max-width:767px){.tide-invitation{padding:3rem 0;align-items:flex-start;flex-direction:column;gap:1.8rem}.tide-dock{align-items:flex-start;flex-direction:column}.tide-cta{white-space:normal}}
+
+.site-footer.footer-redesign a.tide-wordmark{font-size:2rem}.site-footer.footer-redesign .tide-invitation h2{text-transform:none;font-family:var(--heading-font)}
