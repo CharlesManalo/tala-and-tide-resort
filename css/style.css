@@ -172,3 +172,10 @@
 @media(max-width:767px){.tide-invitation{padding:3rem 0;align-items:flex-start;flex-direction:column;gap:1.8rem}.tide-dock{align-items:flex-start;flex-direction:column}.tide-cta{white-space:normal}}
 
 .site-footer.footer-redesign a.tide-wordmark{font-size:2rem}.site-footer.footer-redesign .tide-invitation h2{text-transform:none;font-family:var(--heading-font)}
+
+/* Developer attribution */
+.footer-redesign .developer-credit{border-top:1px solid currentColor;padding:1.1rem 0 1.5rem;opacity:.85}
+.footer-redesign .developer-credit p{font-size:.8rem;margin:0;line-height:1.7}
+.footer-redesign .developer-credit strong{font-weight:600}
+.footer-redesign .developer-credit .developer-strand{display:block}
+.aurelia-footer .developer-credit{text-align:center}
