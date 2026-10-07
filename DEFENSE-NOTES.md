@@ -1,6 +1,6 @@
 # Presentation notes for Tala & Tide Beach Resort
 
-A 3–5 minute walkthrough for John Dos Ancheta. Read and understand the pages, make your own content/design decisions, and confirm permitted assistance with your instructor.
+A 3–5 minute walkthrough for John Kim Ancheta. Read and understand the pages, make your own content/design decisions, and confirm permitted assistance with your instructor.
 
 1. Introduce the concept and target travelers, then explain why the navigation, typography, colors, and layout suit them.
 2. Show an offering card and compare its rate, capacity, inclusions, duration, and availability.

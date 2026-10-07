@@ -1,6 +1,6 @@
 # Tala & Tide Beach Resort
 
-Built for John Dos Ancheta. Static HTML5, CSS3, and vanilla JavaScript; eight complete pages. Open `index.html`, or serve this folder with a simple local HTTP server. No build step or framework is required. Images, videos, and fonts are local; the OpenStreetMap embed and external links need an internet connection.
+Built for John Kim Ancheta. Static HTML5, CSS3, and vanilla JavaScript; eight complete pages. Open `index.html`, or serve this folder with a simple local HTTP server. No build step or framework is required. Images, videos, and fonts are local; the OpenStreetMap embed and external links need an internet connection.
 
 ## Concept and design
 

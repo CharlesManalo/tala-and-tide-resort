@@ -179,3 +179,5 @@
 .footer-redesign .developer-credit strong{font-weight:600}
 .footer-redesign .developer-credit .developer-strand{display:block}
 .aurelia-footer .developer-credit{text-align:center}
+
+.footer-redesign .developer-socials{margin-top:.5rem}.footer-redesign .developer-socials a{display:inline-flex;align-items:center;min-height:44px}.footer-redesign .developer-socials span{margin:0 .6rem}
